@@ -5,14 +5,14 @@
 * ###### Which architecture is more secure? 2 tier or 3 tier
 * ###### Explain SSL Handshake   
   * ###### https://www.youtube.com/watch?v=ubHZQrECeew  
-###### https://www.cloudflare.com/learning/ssl/how-does-ssl-work/  
-###### https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/  
+  * ###### https://www.cloudflare.com/learning/ssl/how-does-ssl-work/  
+  * ###### https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/  
 * ###### Recommend XXE mitigation for application which requires external entities to be called because of business requirement  
 * ###### Explain CORS and SOP  
-###### https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS  
-###### https://portswigger.net/web-security/cors  
-###### https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy  
-###### https://www.bedefended.com/papers/cors-security-guide  
+  * ###### https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS  
+  * ###### https://portswigger.net/web-security/cors  
+  * ###### https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy  
+  * ###### https://www.bedefended.com/papers/cors-security-guide  
 * ###### Does SOP mitigate CSRF attacks?  
 ###### https://security.stackexchange.com/questions/157061/how-does-csrf-correlate-with-same-origin-policy
 
