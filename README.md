@@ -85,7 +85,7 @@
 * ###### What is Double-Submit Cookie?  
 * ###### What is Preflight request?  
   * ###### https://developer.mozilla.org/en-US/docs/Glossary/Preflight_request  
-* ###### What Are Certificate Transparency Logs?  
+* ###### What are Certificate Transparency Logs?  
 * ###### What is your favourite vulnerability and why?  
 * ###### Talk about any latest/interesting vulnerability or breach you learnt about.
 
