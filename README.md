@@ -94,4 +94,4 @@
 * ##### [How to prepare for a security engineer interview](https://medium.com/@eraymitrani/how-to-prepare-for-a-security-engineer-interview-6cf1d84de22f) by [Eray Mitrani](https://twitter.com/ErayMitrani)  
 * ##### [Security_Engineer_Interview_Questions](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions/blob/master/security-interview-questions) by [Tad Whitaker](https://twitter.com/theporkskewer)  
 * ##### [Security Engineer - Interview Questions](https://gist.github.com/namishelex01/b5555edbdcdf5597174ddce5c86d3192) by [Namish](https://twitter.com/namishsir)  
-* ##### [60 Cybersecurity Interview Questions 2019 Update](https://danielmiessler.com/study/infosec_interview_questions/) by[Daniel Miessler] (https://twitter.com/danielmiessler)
+* ##### [60 Cybersecurity Interview Questions 2019 Update](https://danielmiessler.com/study/infosec_interview_questions/) by [Daniel Miessler](https://twitter.com/danielmiessler)
