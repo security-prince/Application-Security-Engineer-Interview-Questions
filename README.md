@@ -60,7 +60,7 @@ https://portswigger.net/blog/exploiting-xss-in-post-requests
 * Explain: IDOR, Missing function level access control and privilege escalation  
 * How does burp suite work with HTTPs requests?  
 https://www.quora.com/How-is-it-possible-that-a-proxy-tool-like-Burp-Suite-is-able-to-decrypt-HTTPS-communication-like-plain-text-credentials  
-* https://portswigger.net/burp/documentation/desktop/tools/proxy/using 
+https://portswigger.net/burp/documentation/desktop/tools/proxy/using 
 * Is the DNS service's communication encrypted?
 * Security implications in DNS
 * DNS over HTTPs  
