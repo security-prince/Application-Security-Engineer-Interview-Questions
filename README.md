@@ -1,5 +1,5 @@
 # Application-Security-Engineer-Interview-Questions
-Some of the questions/topics which i was asked when i was giving interviews for Application/Product Security roles. I am sure this is not an exhaustive list but i felt these questions were important to be asked and some were challenging to answer. I tried to include the reference resource for some of the questions/topics, feel free to reach out to me at [@security_prince](https://twitter.com/security_prince) for any feedback/suggestions/discussions.
+Some of the questions/topics which i was asked when i was giving interviews for Application/Product Security roles. I am sure this is not an exhaustive list but i felt these questions were important to be asked and some were challenging to answer. I tried to include the reference resource for some of the questions/topics, feel free to reach out to me [twitter](https://twitter.com/security_prince) for any feedback/suggestions/discussions.
 
 
 * ###### Which architecture is more secure? 2 tier or 3 tier
@@ -88,7 +88,7 @@ https://www.cyberciti.biz/faq/understanding-etcshadow-file/
 * Talk about any latest/interesting vulnerability or breach you learnt about.
 
 ### Further Readings and references:
-https://github.com/security-prince/Resources-for-Application-Security
-https://medium.com/@eraymitrani/how-to-prepare-for-a-security-engineer-interview-6cf1d84de22f
-https://github.com/tadwhitaker/Security_Engineer_Interview_Questions/blob/master/security-interview-questions
-https://gist.github.com/namishelex01/b5555edbdcdf5597174ddce5c86d3192
+* [Resources-for-Application-Security](https://github.com/security-prince/Resources-for-Application-Security)  
+* [How to prepare for a security engineer interview](https://medium.com/@eraymitrani/how-to-prepare-for-a-security-engineer-interview-6cf1d84de22f) by [Eray Mitrani](https://twitter.com/ErayMitrani)  
+* [Security_Engineer_Interview_Questions](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions/blob/master/security-interview-questions) by [Tad Whitaker](https://twitter.com/theporkskewe)  
+* [Security Engineer - Interview Questions](https://gist.github.com/namishelex01/b5555edbdcdf5597174ddce5c86d3192) by [Namish](NamishSir)
