@@ -54,7 +54,7 @@
 * ###### Explain Log Poisoning using LFI/RFI  
   * ###### https://www.hackingarticles.in/apache-log-poisoning-through-lfi/  
   * ###### https://www.hackingarticles.in/rce-with-lfi-and-ssh-log-poisoning/  
-* ###### https://highon.coffee/blog/lfi-cheat-sheet/  
+  * ###### https://highon.coffee/blog/lfi-cheat-sheet/  
 * ###### Do the HttpOnly cookie and X-XSS-Protection header mitigate cross-site scripting attacks?  
 * ###### How do you exploit XSS in a post request?  
   * ###### https://portswigger.net/blog/exploiting-xss-in-post-requests  
