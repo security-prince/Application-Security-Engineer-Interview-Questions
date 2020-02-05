@@ -4,7 +4,7 @@
 
 * ###### Which architecture is more secure? 2 tier or 3 tier
 * ###### Explain SSL Handshake   
-###### https://www.youtube.com/watch?v=ubHZQrECeew  
+  * ###### https://www.youtube.com/watch?v=ubHZQrECeew  
 ###### https://www.cloudflare.com/learning/ssl/how-does-ssl-work/  
 ###### https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/  
 * ###### Recommend XXE mitigation for application which requires external entities to be called because of business requirement  
