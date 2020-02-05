@@ -89,7 +89,7 @@
 * ###### What is your favourite vulnerability and why?  
 * ###### Talk about any latest/interesting vulnerability or breach you learnt about.
 
-### Further Readings and references:
+### Further readings and references:
 * ##### [Resources-for-Application-Security](https://github.com/security-prince/Resources-for-Application-Security)  
 * ##### [How to prepare for a security engineer interview](https://medium.com/@eraymitrani/how-to-prepare-for-a-security-engineer-interview-6cf1d84de22f) by [Eray Mitrani](https://twitter.com/ErayMitrani)  
 * ##### [Security_Engineer_Interview_Questions](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions/blob/master/security-interview-questions) by [Tad Whitaker](https://twitter.com/theporkskewer)  
