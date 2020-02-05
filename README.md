@@ -30,9 +30,9 @@
 * ###### Explain DOM XSS. Can DOM XSS be stored? Can CSP header mitigate dom based XSS  
   * ###### https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/  
   * ###### https://html.spec.whatwg.org/multipage/parsing.html  
-* ###### https://portswigger.net/web-security/cross-site-scripting/dom-based  
-* ###### https://brutelogic.com.br/blog/dom-based-xss-the-3-sinks/  
-* ###### https://www.scip.ch/en/?labs.20171214  
+  * ###### https://portswigger.net/web-security/cross-site-scripting/dom-based  
+  * ###### https://brutelogic.com.br/blog/dom-based-xss-the-3-sinks/  
+  * ###### https://www.scip.ch/en/?labs.20171214  
 * ###### What will be your testcase for a file upload functionality?  
   * ###### https://medium.com/@satboy.fb/art-of-unrestricted-file-upload-exploitation-92ed28796d0  
   * ###### https://resources.infosecinstitute.com/file-upload-vulnerabilities/#gref  
@@ -47,7 +47,7 @@
 *  ###### Which method is secure? Compress First and then Encrypt the data or Encrypt First then Compress  
 *  ###### You have found a vulnerability a product/infrastructure, how will you investigate if this was not exploited already by an attacker  
 *  ###### What is SPF, DKIM and DMARC?  
-  * ######https://www.smartertools.com/blog/2019/04/09-understanding-spf-dkim-dmarc  
+  * ###### https://www.smartertools.com/blog/2019/04/09-understanding-spf-dkim-dmarc  
   * ###### https://www.endpoint.com/blog/2014/04/15/spf-dkim-and-dmarc-brief-explanation  
   * ###### https://www.reddit.com/r/sysadmin/comments/aph6ee/lets_talk_about_email_spoofing_and_prevention_alt/
 * ###### Explain DNS Exfiltration  
