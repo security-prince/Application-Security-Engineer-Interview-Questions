@@ -44,9 +44,9 @@
   * ###### https://blog.cloudflare.com/performing-preventing-ssl-stripping-a-plain-english-primer/  
 * ###### If you have API calls which need to fetch credentials, what will be the secure way to store secrets and making them available for API calls?  
 * ###### How does file compression work?  
-*  ###### Which method is secure? Compress First and then Encrypt the data or Encrypt First then Compress  
-*  ###### You have found a vulnerability a product/infrastructure, how will you investigate if this was not exploited already by an attacker  
-*  ###### What is SPF, DKIM and DMARC?  
+* ###### Which method is secure? Compress First and then Encrypt the data or Encrypt First then Compress  
+* ###### You have found a vulnerability a product/infrastructure, how will you investigate if this was not exploited already by an attacker  
+* ###### What is SPF, DKIM and DMARC?  
   * ###### https://www.smartertools.com/blog/2019/04/09-understanding-spf-dkim-dmarc  
   * ###### https://www.endpoint.com/blog/2014/04/15/spf-dkim-and-dmarc-brief-explanation  
   * ###### https://www.reddit.com/r/sysadmin/comments/aph6ee/lets_talk_about_email_spoofing_and_prevention_alt/
