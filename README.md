@@ -92,5 +92,5 @@
 ### Further Readings and references:
 * ##### [Resources-for-Application-Security](https://github.com/security-prince/Resources-for-Application-Security)  
 * ##### [How to prepare for a security engineer interview](https://medium.com/@eraymitrani/how-to-prepare-for-a-security-engineer-interview-6cf1d84de22f) by [Eray Mitrani](https://twitter.com/ErayMitrani)  
-* ##### [Security_Engineer_Interview_Questions](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions/blob/master/security-interview-questions) by [Tad Whitaker](https://twitter.com/theporkskewe)  
+* ##### [Security_Engineer_Interview_Questions](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions/blob/master/security-interview-questions) by [Tad Whitaker](https://twitter.com/theporkskewer)  
 * ##### [Security Engineer - Interview Questions](https://gist.github.com/namishelex01/b5555edbdcdf5597174ddce5c86d3192) by [Namish](https://twitter.com/namishsir)  
