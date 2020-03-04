@@ -42,6 +42,7 @@
 * ###### Explain SSL Stripping  
   * ###### https://blog.cloudflare.com/performing-preventing-ssl-stripping-a-plain-english-primer/  
 * ###### If you have API calls which need to fetch credentials, what will be the secure way to store secrets and making them available for API calls?  
+  * ###### https://medium.com/hackernoon/where-do-you-keep-credentials-for-your-lambda-functions-cac746048480  
 * ###### How does file compression work?  
 * ###### Which method is secure? Compress First and then Encrypt the data or Encrypt First then Compress  
 * ###### You have found a vulnerability a product/infrastructure, how will you investigate if this was not exploited already by an attacker  
